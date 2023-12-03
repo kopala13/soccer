@@ -1,0 +1,114 @@
+
+body {
+   text-align: center;
+   
+background: rgb(251,251,251);
+background: radial-gradient(circle, rgba(251,251,251,1) 0%, rgba(79,195,27,1) 100%);
+   font-family: Arial, sans-serif;
+}
+.container {
+   max-width: 800px;
+   margin: 0 auto;
+   padding: 20px;
+   background-color: #ffffff;
+   border-radius: 10px;
+}
+h1 {
+   font-size: 36px;
+   color: #333;
+}
+p {
+   font-size: 24px;
+   color: #555;
+}
+img {
+   max-width: 100%;
+}
+
+a{
+   border: solid black 2px;
+   border-radius: 10px;
+   margin: 20px;
+   padding: 1px;
+}
+
+div{
+   margin-left: 200px;
+}
+
+ul{
+   margin: 15px;
+}
+
+h2:hover{
+   text-shadow: 5px 5px 5px green;
+   font-size:30px
+   transition:2s;
+}
+
+table{
+   border: 2px solid black;
+}
+
+tr,td{
+   border: 1px solid black;
+}
+
+
+
+ H1{font-size: 60px;}
+
+
+ div {vertical-align: top;}
+
+ ol,:hover{
+    font-size: 20px;
+ }
+ .pic{width: 25px;}
+
+ .pic:hover{
+    width: 200px;
+    height:100px
+ }
+  ul,:hover{
+    font-size: 20px;
+  }
+  h1:hover{
+   font-size:80px;
+   transition:1s;
+
+  }
+  footer a{
+   border:3px solid white;
+   border-radius: 4px;
+   text-align: center;
+  }
+  body{
+   text-align: center;
+  }
+  footer a:hover{
+   color:black;
+   background-color: white;
+   transition:1s;
+   width:20%;
+  }
+nav a:hover{
+   transition:2s;
+   font-size: 26px;
+  }
+  .soccer{
+   font-size: 40px;
+   box-shadow: 10px 5px 5px 0px green;
+   color:black;
+  }
+  nav a{
+   color:black;
+   text-decoration: none;
+   border: 3px solid black;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 20px;
+  }
+  img{
+   border: 5px solid black;
+   width:400px;
+  }
